@@ -1,4 +1,4 @@
-![Supervised Learning](https://img.shields.io/badge/Machine Learning-0.0-green.svg)
+![Supervised Learning](https://img.shields.io/badge/MachineLearning-0.0-green.svg)
 
 # Predicting-Boston-housing-prices
 
